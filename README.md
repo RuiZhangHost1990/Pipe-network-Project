@@ -1,0 +1,1 @@
+The code is used to predict the 'interaction coefficient' for corroded pipe elbows. The main code for training-prediction using five different AI models is: PyTabKit_benchmark_10fold_predict_v4.py. And the results is stored in Predict_with_predictions_v4.csv.
